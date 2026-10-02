@@ -1,0 +1,177 @@
+{
+  "source": "hf_20261002_103051_6a20ccca-8018-4ee0-8e80-1557ebff615b.png",
+  "source_size_pixels": [
+    2048,
+    2048
+  ],
+  "files": [
+    {
+      "file": "01_gold_primary_large.png",
+      "description": "Gold / cream \u2014 large primary logo",
+      "source_crop_box": [
+        450,
+        156,
+        1634,
+        663
+      ],
+      "size_pixels": [
+        1184,
+        507
+      ]
+    },
+    {
+      "file": "02_gold_primary_small.png",
+      "description": "Gold / cream \u2014 small primary logo",
+      "source_crop_box": [
+        215,
+        869,
+        674,
+        1056
+      ],
+      "size_pixels": [
+        459,
+        187
+      ]
+    },
+    {
+      "file": "03_cream_wordmark.png",
+      "description": "Cream \u2014 wordmark",
+      "source_crop_box": [
+        864,
+        961,
+        1341,
+        1042
+      ],
+      "size_pixels": [
+        477,
+        81
+      ]
+    },
+    {
+      "file": "04_gold_icon.png",
+      "description": "Gold \u2014 icon",
+      "source_crop_box": [
+        1577,
+        890,
+        1753,
+        1045
+      ],
+      "size_pixels": [
+        176,
+        155
+      ]
+    },
+    {
+      "file": "05_black_primary_large.png",
+      "description": "Black \u2014 large primary logo",
+      "source_crop_box": [
+        188,
+        1323,
+        807,
+        1579
+      ],
+      "size_pixels": [
+        619,
+        256
+      ]
+    },
+    {
+      "file": "06_black_primary_small.png",
+      "description": "Black \u2014 small primary logo",
+      "source_crop_box": [
+        45,
+        1731,
+        361,
+        1891
+      ],
+      "size_pixels": [
+        316,
+        160
+      ]
+    },
+    {
+      "file": "07_black_wordmark.png",
+      "description": "Black \u2014 wordmark",
+      "source_crop_box": [
+        430,
+        1806,
+        737,
+        1866
+      ],
+      "size_pixels": [
+        307,
+        60
+      ]
+    },
+    {
+      "file": "08_black_icon.png",
+      "description": "Black \u2014 icon",
+      "source_crop_box": [
+        783,
+        1739,
+        944,
+        1881
+      ],
+      "size_pixels": [
+        161,
+        142
+      ]
+    },
+    {
+      "file": "09_white_primary_large.png",
+      "description": "White \u2014 large primary logo",
+      "source_crop_box": [
+        1213,
+        1324,
+        1825,
+        1579
+      ],
+      "size_pixels": [
+        612,
+        255
+      ]
+    },
+    {
+      "file": "10_white_primary_small.png",
+      "description": "White \u2014 small primary logo",
+      "source_crop_box": [
+        1065,
+        1733,
+        1380,
+        1892
+      ],
+      "size_pixels": [
+        315,
+        159
+      ]
+    },
+    {
+      "file": "11_white_wordmark.png",
+      "description": "White \u2014 wordmark",
+      "source_crop_box": [
+        1446,
+        1808,
+        1749,
+        1866
+      ],
+      "size_pixels": [
+        303,
+        58
+      ]
+    },
+    {
+      "file": "12_white_icon.png",
+      "description": "White \u2014 icon",
+      "source_crop_box": [
+        1810,
+        1744,
+        1964,
+        1879
+      ],
+      "size_pixels": [
+        154,
+        135
+      ]
+    }
+  ]
+}
